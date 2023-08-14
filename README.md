@@ -1,6 +1,6 @@
 # ts-complex-division
 
-[Build Status](https://github.com/paxa1887/ts-complex-division/actions/workflows/main.yml/badge.svg)
+https://github.com/paxa1887/ts-complex-division/actions/workflows/main.yml/badge.svg
 
 
 Floating point complex division in TypeScript
