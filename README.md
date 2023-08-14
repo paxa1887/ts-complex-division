@@ -23,7 +23,7 @@ Calculates (a + ib)/(c + id) and returns a two-element JS array with the real an
 ## Example
 
 ```TypeScript
-import { complexDivision } from 'complex-division';
+import { complexDivision } from 'ts-complex-division';
 
 const result = complexDivision(a, b, c, d);
 
