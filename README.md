@@ -1,7 +1,7 @@
 # ts-complex-division
 
 ![Workflow](https://github.com/paxa1887/ts-complex-division/actions/workflows/main.yml/badge.svg)
-
+[![codecov](https://codecov.io/gh/paxa1887/ts-complex-division/graph/badge.svg?token=S6U22KXOKW)](https://codecov.io/gh/paxa1887/ts-complex-division)
 
 Floating point complex division in TypeScript
 
