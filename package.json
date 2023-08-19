@@ -1,7 +1,7 @@
 {
   "scripts": {
     "build": "tsup ./src",
-    "test": "jest --config ./.jestrc.json"
+    "tests": "jest --coverage --config ./.jestrc.json"
   },
   "files": [
     "dist",
