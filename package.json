@@ -1,7 +1,7 @@
 {
   "scripts": {
     "build": "tsup ./src",
-    "test": "jest --config ./.jestrc.json && npm run lint && prettier . --write",
+    "tests": "jest --config ./.jestrc.json && npm run lint && prettier . --write",
     "lint": "eslint . --ext .ts",
     "lint-and-fix": "eslint . --ext .ts --fix",
     "prettier-fix": "prettier . --write"
