@@ -1,4 +1,4 @@
 {
-    "testRegex": "(/tests/.*\\.test.ts)$",
-    "verbose": true
-  }
+  "testRegex": "(/tests/.*\\.test.ts)$",
+  "verbose": true
+}

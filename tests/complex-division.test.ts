@@ -1,4 +1,4 @@
-import {describe, expect} from '@jest/globals';
+import { describe, expect } from '@jest/globals';
 import { complexDivision } from '../src/complex-division';
 
 describe('(a+bi)/(c+di)', function () {
@@ -33,7 +33,7 @@ describe('(a+bi)/(c+di)', function () {
       c = 2,
       d = 1;
 
-      complexDivision(a, b, c, d, result);
+    complexDivision(a, b, c, d, result);
 
     expect(Math.abs(result[0] - 2.2) < 1e-8);
     expect(Math.abs(result[1] - 0.4) < 1e-8);

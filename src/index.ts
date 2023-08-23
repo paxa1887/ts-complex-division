@@ -1,1 +1,1 @@
-export { complexDivision } from './complex-division'
+export { complexDivision } from './complex-division';

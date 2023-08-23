@@ -1,9 +1,10 @@
 {
   "scripts": {
     "build": "tsup ./src",
-    "test": "jest --config ./.jestrc.json && npm run lint",
+    "test": "jest --config ./.jestrc.json && npm run lint && prettier . --write",
     "lint": "eslint . --ext .ts",
-    "lint-and-fix": "eslint . --ext .ts --fix"
+    "lint-and-fix": "eslint . --ext .ts --fix",
+    "prettier-fix": "prettier . --write"
   },
   "files": [
     "dist",
@@ -209,6 +210,7 @@
     "pirates": "^4.0.6",
     "pkg-dir": "^4.2.0",
     "postcss-load-config": "^4.0.1",
+    "prettier": "3.0.2",
     "pretty-format": "^29.6.2",
     "prompts": "^2.4.2",
     "punycode": "^2.3.0",
