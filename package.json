@@ -10,6 +10,10 @@
     "dist",
     "package.json"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/paxa1887/ts-complex-division"
+  },
   "exports": {
     ".": {
       "require": "./dist/index.js",
@@ -22,7 +26,7 @@
   "types": "./dist/index.d.ts",
   "name": "ts-complex-division",
   "description": "Floating point complex division in TypeScript",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "directories": {
     "test": "tests"
   },
