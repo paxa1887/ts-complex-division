@@ -1,7 +1,9 @@
 # ts-complex-division
 
 ![Workflow](https://github.com/paxa1887/ts-complex-division/actions/workflows/main.yml/badge.svg)
-[![codecov](https://codecov.io/gh/paxa1887/ts-complex-division/graph/badge.svg?token=S6U22KXOKW)](https://codecov.io/gh/paxa1887/ts-complex-division)
+[![Codecov](https://codecov.io/gh/paxa1887/ts-complex-division/graph/badge.svg?token=S6U22KXOKW)](https://codecov.io/gh/paxa1887/ts-complex-division)   
+[![NPM Monthly Downloads](https://img.shields.io/npm/dm/ts-complex-division.svg?style=flat)](https://www.npmjs.com/package/ts-complex-division) 
+[![Install Size](https://packagephobia.com/badge?p=ts-complex-division)](https://packagephobia.com/result?p=ts-complex-division)
 
 Floating point complex division in TypeScript
 

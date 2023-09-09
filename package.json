@@ -1,7 +1,7 @@
 {
   "scripts": {
     "build": "tsup ./src",
-    "tests": "jest --config ./.jestrc.json && npm run lint && prettier . --write",
+    "tests": "jest --config ./.jestrc.json && prettier . --write && npm run lint",
     "lint": "eslint . --ext .ts",
     "lint-and-fix": "eslint . --ext .ts --fix",
     "prettier-fix": "prettier . --write"
@@ -26,7 +26,7 @@
   "types": "./dist/index.d.ts",
   "name": "ts-complex-division",
   "description": "Floating point complex division in TypeScript",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "directories": {
     "test": "tests"
   },
