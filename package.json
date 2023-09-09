@@ -26,7 +26,7 @@
   "types": "./dist/index.d.ts",
   "name": "ts-complex-division",
   "description": "Floating point complex division in TypeScript",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "directories": {
     "test": "tests"
   },
